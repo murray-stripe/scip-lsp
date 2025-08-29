@@ -3,6 +3,7 @@
   "displayName": "SCIP LSP Extension",
   "description": "SCIP based language server with support for Bazel",
   "version": "0.0.1",
+  "publisher": "uber",
   "license": "MIT",
   "engines": {
     "vscode": "^1.90.0"
